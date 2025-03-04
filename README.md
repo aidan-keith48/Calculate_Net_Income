@@ -1,4 +1,4 @@
-*P.S* Even though i have createrd much more complex applications ive decided to just sit down and refine my coding skills and test myself with each project given to me even if they are small!
+*P.S* Even though i have createrd much more complex applications ive decided to just sit down and refine my coding skills and break things down slowly instead of rushing and test myself with each project given to me even if they are small!
 
 
 This is the *My Second Project with Python* project I made myself. 
